@@ -1,1 +1,1 @@
-# Desafios-frontend
+Esse repositório é uma coleção de projetos front-end criados para ajudar desenvolvedores a aprimorar seus conhecimentos e habilidades em conceitos importantes de desenvolvimento web. Este repositório contém projetos de diferentes níveis de complexidade
